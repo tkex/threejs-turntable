@@ -78,6 +78,6 @@ Sounds can be played when the turntable is interacted with. Turn the lift lever,
 
 # External image sources
 
-https://www.pexels.com/de-de/foto/boden-holz-holzboden-muster-172292/
-https://www.pexels.com/de-de/foto/braun-hd-wallpaper-holz-nahansicht-172289/
-https://www.pexels.com/de-de/foto/album-aufzeichnen-klang-klassisch-167092/
+- https://www.pexels.com/de-de/foto/boden-holz-holzboden-muster-172292/
+- https://www.pexels.com/de-de/foto/braun-hd-wallpaper-holz-nahansicht-172289/
+- https://www.pexels.com/de-de/foto/album-aufzeichnen-klang-klassisch-167092/
