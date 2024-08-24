@@ -4,6 +4,9 @@ An interactive turntable built in Three.js that includes light scenes, materials
 
 Sounds can be played when the turntable is interacted with. Turn the lift lever, push the buttons and lastly the vinyl to crack out the sounds! For physics, the turntable can be thrown around in the scene with balls (pressing `space` as much as one desires).
 
+![Bild vom Turntable](https://github.com/tkex/threejs-turntable/blob/main/turntable/tt-detail.png?raw=true)
+
+
 # Quick setup
 
 - Clone the repository
